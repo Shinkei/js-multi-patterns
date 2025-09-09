@@ -1,0 +1,26 @@
+{
+    "name": "cooking-masters-initial",
+    "version": "1.0.0",
+    "description": "A recipe application for learning multi-page design patterns",
+    "main": "index.html",
+    "scripts": {
+        "format": "prettier --write .",
+        "format:check": "prettier --check .",
+        "serve": "serve -s . -l 3000"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.0",
+        "serve": "^14.2.1"
+    },
+    "keywords": [
+        "recipes",
+        "cooking",
+        "design-patterns",
+        "javascript",
+        "vanilla-js",
+        "frontend",
+        "multi-page-app"
+    ],
+    "author": "CookingMasters",
+    "license": "MIT"
+}
