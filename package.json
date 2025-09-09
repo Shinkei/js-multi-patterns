@@ -5,12 +5,10 @@
   "main": "index.html",
   "scripts": {
     "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "serve": "serve -s . -l 3000"
+    "format:check": "prettier --check ."
   },
   "devDependencies": {
-    "prettier": "^3.0.0",
-    "serve": "^14.2.1"
+    "prettier": "^3.0.0"
   },
   "keywords": [
     "recipes",
